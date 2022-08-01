@@ -1,0 +1,280 @@
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.exe
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.deps.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.dev.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ref\Zay.Shop.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.AssemblyReference.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfoInputs.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfo.cs
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CoreCompileInputs.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.Manifest.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.xml
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\scopedcss\bundle\Zay.Shop.styles.css
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.RazorTargetAssemblyInfo.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CopyComplete
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\ref\Zay.Shop.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.genruntimeconfig.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.exe
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.deps.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.dev.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ref\Zay.Shop.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfo.cs
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.xml
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\scopedcss\bundle\Zay.Shop.styles.css
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CopyComplete
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\ref\Zay.Shop.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.genruntimeconfig.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.Development.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.exe
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.deps.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.dev.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ref\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\AutoMapper.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Humanizer.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.AssemblyReference.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfoInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfo.cs
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cs
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.Manifest.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.xml
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\scopedcss\bundle\Zay.Shop.styles.css
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.RazorTargetAssemblyInfo.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CopyComplete
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\ref\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.genruntimeconfig.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.Development.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\appsettings.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.exe
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.deps.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.runtimeconfig.dev.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ref\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Zay.Shop.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\AutoMapper.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Humanizer.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.Models.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\bin\Debug\net5.0\ShopLibrary.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.AssemblyReference.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfoInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.AssemblyInfo.cs
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cs
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.MvcApplicationPartsAssemblyInfo.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.Manifest.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\staticwebassets\Zay.Shop.StaticWebAssets.xml
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\scopedcss\bundle\Zay.Shop.styles.css
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.RazorTargetAssemblyInfo.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.csproj.CopyComplete
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\ref\Zay.Shop.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\obj\Debug\net5.0\Zay.Shop.genruntimeconfig.cache

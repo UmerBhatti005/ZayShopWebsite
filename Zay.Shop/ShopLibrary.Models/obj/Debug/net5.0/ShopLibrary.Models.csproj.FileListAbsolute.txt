@@ -1,0 +1,72 @@
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.deps.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.dev.json
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ref\ShopLibrary.Models.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.AssemblyReference.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfoInputs.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfo.cs
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ref\ShopLibrary.Models.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.genruntimeconfig.cache
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.dll
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.pdb
+C:\Users\Digi Tech\source\repos\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CopyComplete
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.deps.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.dev.json
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ref\ShopLibrary.Models.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CopyComplete
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ref\ShopLibrary.Models.dll
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.pdb
+C:\Users\user\source\repos\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.genruntimeconfig.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.deps.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.dev.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ref\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.AssemblyReference.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfoInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfo.cs
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CoreCompileInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CopyComplete
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ref\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.genruntimeconfig.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.deps.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.runtimeconfig.dev.json
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ref\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.Models.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\bin\Debug\net5.0\ShopLibrary.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.AssemblyReference.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfoInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.AssemblyInfo.cs
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CoreCompileInputs.cache
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.csproj.CopyComplete
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ref\ShopLibrary.Models.dll
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.pdb
+F:\Visual Studio C_Sharp\MyProject\ECommerceBack.ZayShop\Zay.Shop\ShopLibrary.Models\obj\Debug\net5.0\ShopLibrary.Models.genruntimeconfig.cache
